@@ -33,8 +33,8 @@ Exercises, databases, and applications developed during my **Multiplatform Appli
 
 Feel free to reach out or take a look at what I'm working on:
 
-- **LinkedIn:** [Juan Diego Núñez]([https://linkedin.com](https://linkedin.com/in/juan-diego-n%C3%BA%C3%B1ez-89b574222))
-- **GitHub:** [juannune-42]([https://github.com](https://github.com/juannune-42))
+- **LinkedIn:** [Juan Diego Núñez](https://linkedin.com/in/juan-diego-n%C3%BA%C3%B1ez-89b574222)
+- **GitHub:** [juannune-42](https://github.com/juannune-42)
 
 Thanks for stopping by! 😄
 
